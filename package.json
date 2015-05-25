@@ -4,10 +4,7 @@
   "description": "Whether code was highlighted during markdown-it rendering.",
   "keywords": ["markdown-it-plugin"],
   "homepage": "https://github.com/valeriangalliat/markdown-it-highlighted",
-  "license": {
-    "type": "Unlicense",
-    "url": "http://unlicense.org/"
-  },
+  "license": "Unlicense",
   "author": {
     "name": "Valérian Galliat",
     "url": "http://val.codejam.info/"
