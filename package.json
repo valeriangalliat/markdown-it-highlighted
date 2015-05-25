@@ -1,8 +1,10 @@
 {
   "name": "markdown-it-highlighted",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Whether code was highlighted during markdown-it rendering.",
-  "keywords": ["markdown-it-plugin"],
+  "keywords": [
+    "markdown-it-plugin"
+  ],
   "homepage": "https://github.com/valeriangalliat/markdown-it-highlighted",
   "license": "Unlicense",
   "author": {
