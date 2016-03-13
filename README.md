@@ -2,7 +2,7 @@
 
 > Whether code was highlighted during [markdown-it] rendering.
 
-[markdown-it]: https://github.com/markdown-it/markdown-it/tree/master
+[markdown-it]: https://github.com/markdown-it/markdown-it
 
 Usage
 -----
